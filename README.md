@@ -1,19 +1,24 @@
 ## General 
-Hi, I am Fong, a 23 y/o student based in Malaysia currently pursuing CS with an interest in cybersecurity.
+- Fong Wei Tze 
+- 23 y/o student based in Malaysia 🇲🇾 
+- 🎓: Bsc in Computer Science (Sunway University)
 
-🎓: Sunway University
-
-## Skillset
-**Programming languages:** `Python` , `Java`
-
-##  Fun fact ⚡
+## Fun fact ⚡
 - I have a huge interest in cars 🚗 and tech 💻.
 - Prior to joining the tech field, I was studying automotive engineering 🚗.
 - Windows 🪟 and Android are my most frequently used OS due to their sheer functionality.
 
+## Skillset
+**Programming languages:** `Python` , `Java`
+
+## Current learnings 🌱:
+As a newbie in the tech industry,I am always open to learning new knowledge and strive to be better every single day!
+
+- I’m currently conducting ... extra learning on Python to enhance my understanding 
+
 ## Where to find me! 📫
 - Instagram: https://www.instagram.com/_weitze/
-- Linkeldn: https://www.linkedin.com/in/fong-wei-tze-705191277/
+- Linkedin: https://www.linkedin.com/in/fong-wei-tze-705191277/
 
 
 <!--
