@@ -14,7 +14,7 @@
 ## Current learnings 🌱:
 As a newbie in the tech industry,I am always open to learning new knowledge and strive to be better every single day!
 
-- I’m currently conducting ...
+I’m currently conducting ...
 - extra learning on Python to enhance my understanding
 - networking studies to learn the fundamentals of networking
 
