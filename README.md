@@ -12,11 +12,11 @@
 **Programming languages:** `Python` , `Java`
 
 ## Current learnings 🌱:
-As a newbie in the tech industry,I am always open to learning new knowledge and strive to be better every single day!
+As a newbie in the tech industry, I am always open to learning new knowledge and strive to be better every single day!
 
 I’m currently conducting ...
-- extra learning on Python to enhance my understanding
-- networking studies to learn the fundamentals of networking
+- extra learning on Python to enhance my understanding.
+- networking studies to learn the fundamentals of networking.
 
 ## Where to find me! 📫
 - Instagram: https://www.instagram.com/_weitze/
