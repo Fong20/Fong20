@@ -15,8 +15,8 @@
 As a newbie in the tech industry, I am always open to learning new knowledge and strive to be better every single day!
 
 I’m currently conducting ...
-- extra learning on Python to enhance my understanding.
-- networking studies to learn the fundamentals of networking.
+- basic computing fundamentals such as programming, networking, operating systems etc.
+- extra learning on cybersecurity lessons to enhance my knowledge of cybersecurity.
 
 ## Where to find me! 📫
 - Instagram: https://www.instagram.com/_weitze/
