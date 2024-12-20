@@ -9,7 +9,7 @@
 - Windows 🪟 and Android are my most frequently used OS due to their sheer functionality.
 
 ## Skillset
-**Programming languages:** `Python` , `Java`
+**Programming languages:** `Python` , `Java` , `SQL` , `HTML` , `CSS`
 
 ## Current learnings 🌱:
 As a newbie in the tech industry, I am always open to learning new knowledge and strive to be better every single day!
