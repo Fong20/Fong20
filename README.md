@@ -1,6 +1,6 @@
 ## General 
 - Fong Wei Tze 
-- 23 y/o student based in Malaysia 🇲🇾 
+- 24 y/o student based in Malaysia 🇲🇾 
 - 🎓: Bsc in Computer Science (Sunway University)
 
 ## Fun fact ⚡
