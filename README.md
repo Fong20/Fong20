@@ -19,7 +19,6 @@ I’m currently conducting ...
 - extra learning on cybersecurity lessons to enhance my knowledge of cybersecurity.
 
 ## Where to find me! 📫
-- Instagram: https://www.instagram.com/_weitze/
 - Linkedin: https://www.linkedin.com/in/fong-wei-tze-705191277/
 
 
